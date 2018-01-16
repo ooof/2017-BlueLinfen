@@ -24,3 +24,8 @@
 
 也欢迎有兴趣者参与进来一起去做，可以联系我们的微信公众号或新浪微博。
 
+PS:
+
+1. [关于抵抗雾霾](https://github.com/ooof/BlueLinfen/blob/master/%E5%85%B3%E4%BA%8E%E6%8A%B5%E6%8A%97%E9%9B%BE%E9%9C%BE.md)
+2. [邀请临汾家长进入微信群](https://github.com/ooof/BlueLinfen/blob/master/%E6%AC%A2%E8%BF%8E%E5%90%84%E4%BD%8D%E5%AE%B6%E9%95%BF%E8%BF%9B%E5%85%A5%E8%BF%99%E4%B8%AA%E5%AE%B6%E9%95%BF%E7%BE%A4.md)
+
