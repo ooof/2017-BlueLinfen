@@ -1,3 +1,4 @@
+# 蔚蓝临汾网络项目
 
 > 雾霾吞食一切生命，雾霾是所有生命的敌人。
 > 
@@ -15,8 +16,8 @@
 
 但事情远远没有到可以结束的时候，而是一切才仅仅开始，仍然有太多的事情需要去做，这里目前做下面两件事。
 
-1. [临汾硫霾大事记](https://github.com/ooof/Project-2017/tree/master/bluelinfen/Linfen-AirPollution-History.md)
-2. [抵抗雾霾的可用资源](https://github.com/ooof/Project-2017/tree/master/bluelinfen/Linfen-AirPollution-Resources.md)
+1. [临汾硫霾大事记](https://github.com/ooof/2017-BlueLinfen/blob/master/Linfen-AirPollution-History.md)
+2. [抵抗雾霾的可用资源](https://github.com/ooof/2017-BlueLinfen/blob/master/Linfen-AirPollution-Resources.md)
 
 其中临汾硫霾大事记，以 2017年1月初硫霾爆发为起始，计划以超链接的方式记录整个事件过程中的要点事件，供今人后人知晓临汾曾有过的苦难历程，并能引以为戒。
 
@@ -26,6 +27,6 @@
 
 PS:
 
-1. [关于抵抗雾霾](https://github.com/ooof/BlueLinfen/blob/master/%E5%85%B3%E4%BA%8E%E6%8A%B5%E6%8A%97%E9%9B%BE%E9%9C%BE.md)
-2. [邀请临汾家长进入微信群](https://github.com/ooof/BlueLinfen/blob/master/%E6%AC%A2%E8%BF%8E%E5%90%84%E4%BD%8D%E5%AE%B6%E9%95%BF%E8%BF%9B%E5%85%A5%E8%BF%99%E4%B8%AA%E5%AE%B6%E9%95%BF%E7%BE%A4.md)
+1. [关于抵抗雾霾](https://github.com/ooof/2017-BlueLinfen/blob/master/%E5%85%B3%E4%BA%8E%E6%8A%B5%E6%8A%97%E9%9B%BE%E9%9C%BE.md)
+2. [邀请临汾家长进入微信群](https://github.com/ooof/2017-BlueLinfen/blob/master/%E6%AC%A2%E8%BF%8E%E5%90%84%E4%BD%8D%E5%AE%B6%E9%95%BF%E8%BF%9B%E5%85%A5%E8%BF%99%E4%B8%AA%E5%AE%B6%E9%95%BF%E7%BE%A4.md)
 
