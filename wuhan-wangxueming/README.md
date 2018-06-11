@@ -66,7 +66,7 @@
 8. 2018年6月6日，王雪明家属一行四人到武昌处理善后事宜。
 9. 2018年6月9日晚，亲人在学校宿舍门口烧纸惦念孩子。
 
-<img src="/home/ooof/%E6%96%87%E6%A1%A3/GitHub/wuhan-wangxueming/img/552725333.jpg" width="560">
+<img src="img/552725333.jpg" width="560">
 
 
 
@@ -105,16 +105,15 @@
 1. 王雪明在校参与软件开发作品，见序号29 “干旱灾害演进过程监测系统”
 
    <img src="img/ruanjian.png" width="540">
-
    ​
 
 2. 王雪明在校期间，参与精神健康学习及活动的证书
 
-<img src="img/1254282998.jpg" width="510">
+   <img src="img/1254282998.jpg" width="510">
 
 3. 武汉大学校园对面王雪明坠楼的宾馆
 
-<img src="img/1242657512.jpg" width="510">
+   <img src="img/1242657512.jpg" width="510">
 
 4. 2018/05/15 武汉大学的鉴定书
 
@@ -124,4 +123,4 @@
 
    2. SAS 焦虑自评量
 
-<img src="img/937864588.jpg" width="510">
+   <img src="img/937864588.jpg" width="510">
